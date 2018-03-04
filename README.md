@@ -1,6 +1,6 @@
 # vue-boierplate
 
-> boierplate for FEUP workshop
+> boierplate to use at FEUP
 
 ## Build Setup
 
